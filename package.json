@@ -6,11 +6,10 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "^3.0.0-27430570.4cfad4d"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.2",
-    "postcss": "^8.4.7",
-    "tailwindcss": "^3.0.23"
+    "@nuxtjs/tailwindcss": "5.0.0-4",
+    "daisyui": "^2.2.2"
   }
 }
